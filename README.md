@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumit-Manderna
-- 👀 I’m interested in android development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Data structure and algorithm
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me at 28sumitdec@gmail.com
